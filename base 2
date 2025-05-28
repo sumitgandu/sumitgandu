@@ -1,0 +1,19 @@
+# हमारा परिवार - वंश वृक्ष ट्रैकर
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/your-username/hamara-parivar)
+
+## टेक्नोलॉजी स्टैक
+- React.js (Frontend)
+- Firebase (Authentication + Firestore Database)
+- Vercel (Hosting)
+
+## सेटअप
+1. Firebase प्रोजेक्ट बनाएं और `src/firebase.js` में कॉन्फिग डालें
+2. लोकली रन करें:
+```bash
+npm install
+npm start
+```
+
+## कॉन्ट्रिब्यूट करें
+- इश्यूज/पुल रिक्वेस्ट्स स्वागत योग्य हैं!
