@@ -1,0 +1,18 @@
+hamara-parivar/
+├── public/
+│   ├── index.html
+│   └── assets/ (फोटो/लोगो)
+├── src/
+│   ├── components/
+│   │   ├── FamilyTree.js
+│   │   ├── AddMember.js
+│   │   └── Navbar.js
+│   ├── pages/
+│   │   ├── Home.js
+│   │   ├── Dashboard.js
+│   │   └── Login.js
+│   ├── firebase.js
+│   ├── App.js
+│   └── index.js
+├── package.json
+└── README.md (प्रोजेक्ट डॉक्युमेंटेशन)
